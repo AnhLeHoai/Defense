@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bullet
+  - Tree
+  - Boss
+  - Enemy
+  - Wall
+  - Leaf
+  - BurstGun
+  - EnemyType1
+  - EnemyType2
+  - BurstForesight
+  - PlaneActivation
+  - Plane
+  - Bomb
+  - EnemyType3
+  - Nuke
+  - Cannon
+  - Shield
+  - EnemyType4
+  - EnemyType5
+  - Laser
+  - Flame
+  - Dead
+  - Head
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

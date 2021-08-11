@@ -1,0 +1,281 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rob
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/belly
+    m_Weight: 1
+  - m_Path: Armature/belly/leg_up.L
+    m_Weight: 0
+  - m_Path: Armature/belly/leg_up.L/leg_down.L
+    m_Weight: 0
+  - m_Path: Armature/belly/leg_up.L/leg_down.L/foot.L
+    m_Weight: 0
+  - m_Path: Armature/belly/leg_up.R
+    m_Weight: 0
+  - m_Path: Armature/belly/leg_up.R/leg_down.R
+    m_Weight: 0
+  - m_Path: Armature/belly/leg_up.R/leg_down.R/foot.R
+    m_Weight: 0
+  - m_Path: Armature/belly/torso
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/bear_claw.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/carb_claw.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/claw1.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/claw2.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/claw4.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/claw5.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/claw6.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/claw7.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/claw8.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/claw9.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/demon_claw.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/karambit_claw.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/monster_claw.001
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.L/arm_down.L/hand.L 1/wep.L
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/bear_claw
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/carb_claw
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/claw1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/claw2
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/claw4
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/claw5
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/claw6
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/claw7
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/claw8
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/claw9
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/demon_claw
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/karambit_claw
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/monster_claw
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/alien_gun
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/barrel
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/batana
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/batana_bomb
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/bazoka1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/bazoka2
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/bazoka3
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/blade
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/blade1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/blade2
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/bomb
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/bomb1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/bomb2
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/buada
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/cake_bomb
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/carrot
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/cloud_sword
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/cowboy_gun
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/cupcake_bomb
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/dao4
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/dao5
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/destapador
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/glock
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/grenade
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/grenade1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/grenade2
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/grenade_launcher
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/gun
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/gun1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/gun2
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/gun3
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/gun4
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/gun5
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/gun6
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/gun7
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/gun_laze
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/halo_rocket
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/hammer
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/hammer_iron
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/hotdog
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/karambit9
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/kiemdai1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/kiemdai2
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/kiemdai3
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/kiemdai4
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/kiemdai5
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/kiemdai6
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/kiemdai7
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/kiemdai8
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/kiemngan1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/kiemngan2
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/knife1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/knife2
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/knife3
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/knife4
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/knife5
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/knife6
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/knife7
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/knife_shark
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/kovani
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/launcher
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/launcher1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/launcher2
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/launcher3
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/lollipop
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/mine
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/mjolnir
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/nerf_gun
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/old_phone
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/pan
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/paper_knives
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/pirahna_cannon
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/pistola
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/pizza
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/plan_bomb
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/rack
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/rocket
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/shovel_iron
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/star_bomb
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/steampunk_gun
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/stick
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/sword1
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/tnt
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/warhammer
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R/wooden_sword
+    m_Weight: 1
+  - m_Path: Armature/belly/torso/head
+    m_Weight: 1
+  - m_Path: Armature/ik_foot.L
+    m_Weight: 1
+  - m_Path: Armature/ik_foot.R
+    m_Weight: 1
+  - m_Path: Armature/ik_pole.L
+    m_Weight: 1
+  - m_Path: Armature/ik_pole.R
+    m_Weight: 1
+  - m_Path: hand.L
+    m_Weight: 1

@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlasFx
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b7ade139a33c63a4d8012f5f9370a315, type: 3}
+    - {fileID: 102900000, guid: e8bcabed0dfcc4d4c8e9392f36de8d02, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b68cfe70f32e86841bfb0ff5f0ee5290, type: 3}
+  - {fileID: 21300000, guid: b8e9b0a0f5064604e9fd17dc9eda76d3, type: 3}
+  - {fileID: 21300000, guid: df77c1f0a9d17c649ae789a3effdd0ce, type: 3}
+  - {fileID: 21300000, guid: 37317971c4014b94b80b1666f7452b87, type: 3}
+  - {fileID: 21300000, guid: 0711f6c17464bc946aff734870345116, type: 3}
+  - {fileID: 21300000, guid: c957c412557552c46805e8cce44d05db, type: 3}
+  - {fileID: 21300000, guid: fbdfe912bc3220c4b8cb4edd77d361eb, type: 3}
+  - {fileID: 21300000, guid: 4f31d5221f14c944991287c74452a20f, type: 3}
+  - {fileID: 21300000, guid: dd32a5a26a72c3844a3658dcac363ba1, type: 3}
+  - {fileID: 21300000, guid: 478f4fa218dff664aa87979cff7064c9, type: 3}
+  - {fileID: 21300000, guid: 915d4de24de5cbc4b829aba9c7b1d40f, type: 3}
+  - {fileID: 21300000, guid: 0b884df2d6d2e5e408c24f7bbcf95d07, type: 3}
+  - {fileID: 21300000, guid: 40fdc303a311d86458ac425a4a65db2c, type: 3}
+  - {fileID: 21300000, guid: c98fce636799ea94ebbe8d8bfc34958f, type: 3}
+  - {fileID: 21300000, guid: 6d4670a31a8a4554997d893214a2e402, type: 3}
+  - {fileID: 21300000, guid: 55eb1bc3b0eb42b40990b7883ec634bf, type: 3}
+  - {fileID: 21300000, guid: 5d8f5bd316daa914f862c865f6d6586b, type: 3}
+  - {fileID: 21300000, guid: 1e659c247327fc14bb6f60e26da1fa27, type: 3}
+  - {fileID: 21300000, guid: e033c1941023c834aa216d7b8d7280e2, type: 3}
+  - {fileID: 21300000, guid: b7fceaf4ccd3d3640aba68619338bed5, type: 3}
+  - {fileID: 21300000, guid: 090583b50a0694341ad9fd5a2ede6736, type: 3}
+  - {fileID: 21300000, guid: 5930e696ecfac8347b9a601c2428e4d7, type: 3}
+  - {fileID: 21300000, guid: c34591c778daf7b45a4e6afccaa1ed63, type: 3}
+  - {fileID: 21300000, guid: b4df6af73a1ee2b4b8b553ef999c62a0, type: 3}
+  - {fileID: 21300000, guid: e3f22eb8062a3cd4d8439b2fd636a74b, type: 3}
+  - {fileID: 21300000, guid: 2b54d539d51d73042b4480b8d00823f5, type: 3}
+  - {fileID: 21300000, guid: 9136e559dfabfa641996775b5592ad3e, type: 3}
+  - {fileID: 21300000, guid: ef72bb4a83b6c324db88d0d6b7fc58de, type: 3}
+  - {fileID: 21300000, guid: 1d1a9b6a64fafa649a3d392bebe91d10, type: 3}
+  - {fileID: 21300000, guid: f2819dda0f3bdae44ac23b4e24f4c91b, type: 3}
+  - {fileID: 21300000, guid: 12caceda696deca4b8fa635c13be728a, type: 3}
+  - {fileID: 21300000, guid: c25bac0bded102f4083b2fb68d896d4e, type: 3}
+  - {fileID: 21300000, guid: 7a19a52b4a0ab864c9d19d5e0f215b1c, type: 3}
+  - {fileID: 21300000, guid: 87c1344b0d7f61a42bdad1b20930bba3, type: 3}
+  - {fileID: 21300000, guid: 41d5c9cbe110e3d47999b71b46577386, type: 3}
+  - {fileID: 21300000, guid: 0734ac5c2672eb549aaeb911303639d4, type: 3}
+  - {fileID: 21300000, guid: 9fef316c82c5c234d9db7177ef9c2b12, type: 3}
+  - {fileID: 21300000, guid: add1676d5a38c84498c028dc88ce3a87, type: 3}
+  - {fileID: 21300000, guid: 8776229d3aa894e438bfce9ed695787c, type: 3}
+  - {fileID: 21300000, guid: 1215624e174990143ace91556c712f17, type: 3}
+  - {fileID: 21300000, guid: 8549face98abff944a7d8f8ce784ceb2, type: 3}
+  - {fileID: 21300000, guid: 56c251ee4e98b6e40b23f49487823f5b, type: 3}
+  - {fileID: 21300000, guid: 93c6df6f2788f7448840a4432cd03c62, type: 3}
+  - {fileID: 21300000, guid: fd7f74cf9db4c26418e5fe3d403cc8d7, type: 3}
+  - {fileID: 21300000, guid: 13a197efac40f0148a80b69a8d6a32f2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CFX4_T_GlowStar A8
+  - Corona_Hat
+  - Flower_Hat
+  - Texture_Pulpo_Hat
+  - Doc_Hat
+  - CFX2_T_ShinyStar
+  - UV_box
+  - glow
+  - Leaves_Hat
+  - Glow_01
+  - Spider_Pet_Base_Color
+  - Audifonos_Hat
+  - p_ray1_red 1
+  - Party_Hat
+  - CFXM4_T_SmokePuff AB
+  - Dog_PET_Dog_Pet_BaseColor
+  - Toilete_Paper_Hat
+  - Amoung_Us_Baby_2
+  - Destapador_Hat
+  - vent
+  - M_2D_Light_01
+  - Baloon_Hat
+  - Glow_002
+  - Kung_Fu_Hat
+  - CFXM4_T_SoftCircle A8
+  - Basic_Hat
+  - Hat_horn
+  - Texture_Key
+  - Box_Hat
+  - Ufo_Pet_UFO_Pet_BaseColor
+  - Horn
+  - Emissive_01
+  - Glow_070_c
+  - shadow
+  - Texture_A
+  - grab2
+  - Flare_010_tex
+  - Egg
+  - Gorrito_Hat
+  - Texture_Coin
+  - Texture_Candy
+  - Dog_PET_Dog_Pet_BaseColor_Tooge
+  - Key_Glow
+  - Bot_Pet_Bot_Pet_BaseColor
+  - CFXM_T_RayRounded.pvr
+  m_Tag: SpriteAtlasFx
+  m_IsVariant: 0

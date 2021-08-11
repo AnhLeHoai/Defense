@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ChestKey
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1b3fa55b2c2d9f44aa00fed2503fe869, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 79fca650353ee3f41b24e565c191b195, type: 3}
+  - {fileID: 21300000, guid: 9007df110bd0f4e48a2255bbf8a7032d, type: 3}
+  - {fileID: 21300000, guid: 7658eed2de5cc8b49982b9ca667acbe0, type: 3}
+  - {fileID: 21300000, guid: 5e050b3308ed9e440b7604623829656a, type: 3}
+  - {fileID: 21300000, guid: 88b98745fb2b0ab4d9d17a1e404fbeb6, type: 3}
+  - {fileID: 21300000, guid: 1b0f88d5f209e0d4ca7d00cabc72a0a1, type: 3}
+  - {fileID: 21300000, guid: 410ee65763584654f9c120857402e5aa, type: 3}
+  - {fileID: 21300000, guid: 393fae0bf8d657f438cf8e54f02a2960, type: 3}
+  - {fileID: 21300000, guid: 8e445cdf51ce10343b3b97b635c1026e, type: 3}
+  - {fileID: 21300000, guid: 75c257ffc776c5b4b9bc3ec1ddf21481, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - room_bg
+  - key_in
+  - chest_open_bg_on
+  - btn_x3
+  - Icon_clock
+  - light
+  - Glow
+  - chest_open_bg
+  - tx_top_prize
+  - icon_chest
+  m_Tag: ChestKey
+  m_IsVariant: 0

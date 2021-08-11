@@ -1,0 +1,1227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e549f04653b3644b69815078812095, type: 3}
+  m_Name: DataMaterialSkin
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 2100000, guid: 32d13c329ad56a643a0a78aaf214c305, type: 2}
+    - {fileID: 2100000, guid: f5f91adba18910e409423a6ba1fb4c31, type: 2}
+    - {fileID: 2100000, guid: 375f03658f1b79148bf06f9e761f8a1f, type: 2}
+    - {fileID: 2100000, guid: 434389cfddb2d4448b363763730f08e5, type: 2}
+    - {fileID: 2100000, guid: 6cb340bb589d65145a6b4bca80f32811, type: 2}
+    - {fileID: 2100000, guid: ab4665d5ce254934ea6be5a788e49cf5, type: 2}
+    - {fileID: 2100000, guid: 8023ed22167946442af40d7621037f88, type: 2}
+    - {fileID: 2100000, guid: 369369e54e4cf3040a31a3a8cb0e2c3d, type: 2}
+    - {fileID: 2100000, guid: 62c10273d3075bf49b5856a6ef45f14c, type: 2}
+    - {fileID: 2100000, guid: 84896a4e0f4d5c74daff53f826640f44, type: 2}
+    - {fileID: 2100000, guid: 290b8b87548278e4dabf1b39ab3f38d0, type: 2}
+    - {fileID: 2100000, guid: a16041550c723a54ab115921a490c8ea, type: 2}
+    - {fileID: 2100000, guid: b0ea14e66e405514583de54467dc5c58, type: 2}
+    - {fileID: 2100000, guid: 95dc5e72d45b1cc42956b1d97fe1f443, type: 2}
+    - {fileID: 2100000, guid: d83f35148110a8d40bbc06bd045af9ee, type: 2}
+    - {fileID: 2100000, guid: 0153f82656d43a3438a0b407fe2e4222, type: 2}
+    - {fileID: 2100000, guid: 8260898c5166af3439a74967903357fa, type: 2}
+    - {fileID: 2100000, guid: d1cc45b85257b3549a1b400faab1e789, type: 2}
+    - {fileID: 2100000, guid: 2d4aecfaf1aea5148a6b700a27861ea4, type: 2}
+    - {fileID: 2100000, guid: 39a233fb1123b5e4bb029bff4e6144b2, type: 2}
+    - {fileID: 2100000, guid: 5a82c68cff21edf42a97181c1f1f45f8, type: 2}
+    - {fileID: 2100000, guid: 3e373f64d3058d849b1942a250c53f1d, type: 2}
+    - {fileID: 2100000, guid: 47600a1e0758e3c4992b54d5c015617c, type: 2}
+    - {fileID: 2100000, guid: 9caf254cff91e714e9b52bfdaee28414, type: 2}
+    - {fileID: 2100000, guid: f7c856c67c6f67e469efdec645d7ec55, type: 2}
+    - {fileID: 2100000, guid: 04644db30b932a849961fb9784202abe, type: 2}
+    - {fileID: 2100000, guid: 90b1bca6245692346a8d43a76f4f57e1, type: 2}
+    - {fileID: 2100000, guid: acc2d19eccc89ca4ba8cc29020bc9002, type: 2}
+    - {fileID: 2100000, guid: 24f2d6d15e9d01d458e5f8782b6f0365, type: 2}
+    - {fileID: 2100000, guid: b8084bb40bc6f8e42892e7600c9f2bd6, type: 2}
+    - {fileID: 2100000, guid: 9278c1ddccdf7bb42a1aa63ea8da57d3, type: 2}
+    - {fileID: 2100000, guid: 19578c03a6c6fe646a4fef9ade11ba4c, type: 2}
+    - {fileID: 2100000, guid: 3fdd830d956816e499aea57425c428fb, type: 2}
+    - {fileID: 2100000, guid: 0e8600ac5852a024d9027dd9b8745f43, type: 2}
+    - {fileID: 2100000, guid: ab44a30482afcbd478fa289944ef64fd, type: 2}
+    - {fileID: 2100000, guid: 1d10fa690349d0541982fc33305b8daa, type: 2}
+    - {fileID: 2100000, guid: 596aa9b53cc6fd34aa1019d11b542509, type: 2}
+    - {fileID: 2100000, guid: e65383ad581faf24d859ade3a8dd6857, type: 2}
+    - {fileID: 2100000, guid: 157da01e1cdcebb4897d112bbf30f527, type: 2}
+    - {fileID: 2100000, guid: f778d2ed263ba2547baa229e7c0d60bf, type: 2}
+    - {fileID: 2100000, guid: aad22327b0f50b34ba4055942d7ea12e, type: 2}
+    - {fileID: 2100000, guid: 282939aa7281fa4448f0b20b3fb90709, type: 2}
+    - {fileID: 2100000, guid: 7a7e64c4d355f8547a1d40f80f4f25d0, type: 2}
+    - {fileID: 2100000, guid: 95d5b082ee0bbff45985acebfd2eb9e3, type: 2}
+    - {fileID: 2100000, guid: d71315f66ba119e449800a76202cefb0, type: 2}
+    - {fileID: 2100000, guid: e8d83489505dcd74e90f7dad00b128ad, type: 2}
+    - {fileID: 2100000, guid: 50b744642f1f7bf42864ea6adf80ad06, type: 2}
+    - {fileID: 2100000, guid: fc7c16f44aa90b84ea063255211343fe, type: 2}
+    - {fileID: 2100000, guid: 94e11473118f79a49848531615c830a9, type: 2}
+    - {fileID: 2100000, guid: 6a15b0964694f8f478d8df4a6e778259, type: 2}
+    - {fileID: 2100000, guid: e84c3f72f41324247afd01c8cf3c3780, type: 2}
+    - {fileID: 2100000, guid: ce90b06988a24ee4ebd3ec40b985d9f8, type: 2}
+    - {fileID: 2100000, guid: f9acc5e36ceeec340a275a75032c5661, type: 2}
+    - {fileID: 2100000, guid: 8e8285269f574564db0904bef7bfb1bb, type: 2}
+    - {fileID: 2100000, guid: 17cf7dbceebc3b44482158bb280fa84e, type: 2}
+    - {fileID: 2100000, guid: dec09d20b28964f45a8d2d9d83f03975, type: 2}
+    - {fileID: 2100000, guid: a9c9a32101c60174aa1b1d728a79832c, type: 2}
+    - {fileID: 2100000, guid: 5353456fc55d3b741bc48541c702523a, type: 2}
+    - {fileID: 2100000, guid: b3692ef24ca523447baf7bbcad97be44, type: 2}
+    - {fileID: 2100000, guid: bef6902c32aeab34496e421a8be30fa3, type: 2}
+    - {fileID: 2100000, guid: 429d7759783f91d4c87ee3ea4d8e3886, type: 2}
+    - {fileID: 2100000, guid: 25ee04cd444a24e49b040aa385ef1c52, type: 2}
+    - {fileID: 2100000, guid: 369f379ef338a224d89f6bb07ff71a3e, type: 2}
+    - {fileID: 2100000, guid: 00f994d95cf48374ba764745fb8513c2, type: 2}
+    - {fileID: 2100000, guid: d76fbcc308ac1244d9980e22027afba9, type: 2}
+    - {fileID: 2100000, guid: 300412c40ffc36e4086a6cd49dc6cfdf, type: 2}
+    - {fileID: 2100000, guid: 03fde9aecd531e942969069c6dd1fcf7, type: 2}
+    - {fileID: 2100000, guid: 628801645c1ba514faaef70c4497c41b, type: 2}
+    - {fileID: 2100000, guid: 68b261bab69a2e545a6da8a1343ef4ee, type: 2}
+    - {fileID: 2100000, guid: c4ceee8e459772a4ca058bb99c6eb16d, type: 2}
+    - {fileID: 2100000, guid: 9c55920ad78a4464da3855e4911d0375, type: 2}
+    - {fileID: 2100000, guid: f31a0489d7533734d92b9ac8fb4d78d8, type: 2}
+    - {fileID: 2100000, guid: 615d37074aeb60b4883482d8512f536c, type: 2}
+    - {fileID: 2100000, guid: 9b1f27f96fae66349970f6c07f771855, type: 2}
+    - {fileID: 2100000, guid: 8b26f3459f4dfaf45af5c71f8e4763e5, type: 2}
+    - {fileID: 2100000, guid: f0d8778076355654185f4d6b5920fde1, type: 2}
+    - {fileID: 2100000, guid: 251d715c8b5c2994db2a39b5f2cfc9d0, type: 2}
+    - {fileID: 2100000, guid: c4dec77bc3dc8c14da3d3b6607e79754, type: 2}
+    - {fileID: 2100000, guid: 50c9494077763c94f93f365e9cf07851, type: 2}
+    - {fileID: 2100000, guid: 89d6e12e27a0463478fedacb4414955f, type: 2}
+    - {fileID: 2100000, guid: c9f2979b5a64d0847b73b00271b4ebab, type: 2}
+    - {fileID: 2100000, guid: 11b952632edad754799694f71828c8e6, type: 2}
+    - {fileID: 2100000, guid: b5cc7a8dea91f894589263f2f02732c7, type: 2}
+    - {fileID: 2100000, guid: 768510fcf8886814f8c43e04b92c960c, type: 2}
+    - {fileID: 2100000, guid: 9dc457af5b416f541950515d946c2ba4, type: 2}
+    - {fileID: 2100000, guid: ee16eab9a4139464da502aebde08e678, type: 2}
+    - {fileID: 2100000, guid: 486279edc9bc05f4d874627f6d8f5355, type: 2}
+    - {fileID: 2100000, guid: 04e7a2e87075c194181efb6190e48cda, type: 2}
+    - {fileID: 2100000, guid: 106ed1495e327c246b65807f2568161a, type: 2}
+    - {fileID: 2100000, guid: 9a88869eb8b2abd4eaee8efeeb4a6a89, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: dictMaterialsBody
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[Skin, Assembly-CSharp],[System.Collections.Generic.List`1[[UnityEngine.Material,
+        UnityEngine.CoreModule]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[Skin, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 18
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 3|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: 4|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 7
+      Data: 5|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 7
+      Data: 6|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 7
+      Data: 7|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 10
+    - Name: 
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 6
+    - Name: $v
+      Entry: 7
+      Data: 8|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 10
+      Data: 13
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 7
+    - Name: $v
+      Entry: 7
+      Data: 9|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 14
+    - Name: 
+      Entry: 10
+      Data: 15
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 8
+    - Name: $v
+      Entry: 7
+      Data: 10|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 16
+    - Name: 
+      Entry: 10
+      Data: 17
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 9
+    - Name: $v
+      Entry: 7
+      Data: 11|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 18
+    - Name: 
+      Entry: 10
+      Data: 19
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 10
+    - Name: $v
+      Entry: 7
+      Data: 12|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 20
+    - Name: 
+      Entry: 10
+      Data: 21
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 11
+    - Name: $v
+      Entry: 7
+      Data: 13|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 22
+    - Name: 
+      Entry: 10
+      Data: 23
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 12
+    - Name: $v
+      Entry: 7
+      Data: 14|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 24
+    - Name: 
+      Entry: 10
+      Data: 25
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 13
+    - Name: $v
+      Entry: 7
+      Data: 15|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 26
+    - Name: 
+      Entry: 10
+      Data: 27
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 14
+    - Name: $v
+      Entry: 7
+      Data: 16|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 28
+    - Name: 
+      Entry: 10
+      Data: 29
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 15
+    - Name: $v
+      Entry: 7
+      Data: 17|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 30
+    - Name: 
+      Entry: 10
+      Data: 31
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 16
+    - Name: $v
+      Entry: 7
+      Data: 18|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 32
+    - Name: 
+      Entry: 10
+      Data: 33
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 17
+    - Name: $v
+      Entry: 7
+      Data: 19|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 34
+    - Name: 
+      Entry: 10
+      Data: 35
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: dictMaterialsDead
+      Entry: 7
+      Data: 20|System.Collections.Generic.Dictionary`2[[Skin, Assembly-CSharp],[System.Collections.Generic.List`1[[UnityEngine.Material,
+        UnityEngine.CoreModule]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 21|System.Collections.Generic.EnumEqualityComparer`1[[Skin, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 18
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 22|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 36
+    - Name: 
+      Entry: 10
+      Data: 37
+    - Name: 
+      Entry: 10
+      Data: 38
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 23|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 39
+    - Name: 
+      Entry: 10
+      Data: 40
+    - Name: 
+      Entry: 10
+      Data: 41
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: 24|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 42
+    - Name: 
+      Entry: 10
+      Data: 43
+    - Name: 
+      Entry: 10
+      Data: 44
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 7
+      Data: 25|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 45
+    - Name: 
+      Entry: 10
+      Data: 46
+    - Name: 
+      Entry: 10
+      Data: 47
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 7
+      Data: 26|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 48
+    - Name: 
+      Entry: 10
+      Data: 49
+    - Name: 
+      Entry: 10
+      Data: 50
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 7
+      Data: 27|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 51
+    - Name: 
+      Entry: 10
+      Data: 52
+    - Name: 
+      Entry: 10
+      Data: 53
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 6
+    - Name: $v
+      Entry: 7
+      Data: 28|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 54
+    - Name: 
+      Entry: 10
+      Data: 55
+    - Name: 
+      Entry: 10
+      Data: 56
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 7
+    - Name: $v
+      Entry: 7
+      Data: 29|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 57
+    - Name: 
+      Entry: 10
+      Data: 58
+    - Name: 
+      Entry: 10
+      Data: 59
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 8
+    - Name: $v
+      Entry: 7
+      Data: 30|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 60
+    - Name: 
+      Entry: 10
+      Data: 61
+    - Name: 
+      Entry: 10
+      Data: 62
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 9
+    - Name: $v
+      Entry: 7
+      Data: 31|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 63
+    - Name: 
+      Entry: 10
+      Data: 64
+    - Name: 
+      Entry: 10
+      Data: 65
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 10
+    - Name: $v
+      Entry: 7
+      Data: 32|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 66
+    - Name: 
+      Entry: 10
+      Data: 67
+    - Name: 
+      Entry: 10
+      Data: 68
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 11
+    - Name: $v
+      Entry: 7
+      Data: 33|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 69
+    - Name: 
+      Entry: 10
+      Data: 70
+    - Name: 
+      Entry: 10
+      Data: 71
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 12
+    - Name: $v
+      Entry: 7
+      Data: 34|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 72
+    - Name: 
+      Entry: 10
+      Data: 73
+    - Name: 
+      Entry: 10
+      Data: 74
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 13
+    - Name: $v
+      Entry: 7
+      Data: 35|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 75
+    - Name: 
+      Entry: 10
+      Data: 76
+    - Name: 
+      Entry: 10
+      Data: 77
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 14
+    - Name: $v
+      Entry: 7
+      Data: 36|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 78
+    - Name: 
+      Entry: 10
+      Data: 79
+    - Name: 
+      Entry: 10
+      Data: 80
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 15
+    - Name: $v
+      Entry: 7
+      Data: 37|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 81
+    - Name: 
+      Entry: 10
+      Data: 82
+    - Name: 
+      Entry: 10
+      Data: 83
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 16
+    - Name: $v
+      Entry: 7
+      Data: 38|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 84
+    - Name: 
+      Entry: 10
+      Data: 85
+    - Name: 
+      Entry: 10
+      Data: 86
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 17
+    - Name: $v
+      Entry: 7
+      Data: 39|System.Collections.Generic.List`1[[UnityEngine.Material, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 87
+    - Name: 
+      Entry: 10
+      Data: 88
+    - Name: 
+      Entry: 10
+      Data: 89
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

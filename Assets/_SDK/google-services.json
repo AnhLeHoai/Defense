@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826510599715",
+    "project_id": "roblox-smasher",
+    "storage_bucket": "roblox-smasher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826510599715:android:a504d6c5b3a0c8465a7396",
+        "android_client_info": {
+          "package_name": "com.casual.roblox.smasher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826510599715-d6qui30g50jvkvshpirgk6vhgsml1rec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr33onFL4Yx6uZhRUJBbSKIcPDcrAQcSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826510599715-d6qui30g50jvkvshpirgk6vhgsml1rec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
